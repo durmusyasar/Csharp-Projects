@@ -1,0 +1,9 @@
+D:\C#_Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe.config
+D:\C#_Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.exe
+D:\C#_Projects\Degiskenler\Degiskenler\bin\Debug\Degiskenler.pdb
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Form1.resources
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Properties.Resources.resources
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.csproj.GenerateResource.Cache
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.exe
+D:\C#_Projects\Degiskenler\Degiskenler\obj\Debug\Degiskenler.pdb

@@ -1,0 +1,9 @@
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\bin\Debug\Login_Paneli_Olusturma.exe.config
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\bin\Debug\Login_Paneli_Olusturma.exe
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\bin\Debug\Login_Paneli_Olusturma.pdb
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.Form1.resources
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.Properties.Resources.resources
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.csproj.GenerateResource.Cache
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.exe
+D:\C#_Projects\Login_Paneli_Olusturma\Login_Paneli_Olusturma\obj\Debug\Login_Paneli_Olusturma.pdb

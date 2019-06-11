@@ -1,0 +1,8 @@
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\bin\Debug\Arithmetic_Four_Operations.exe.config
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\bin\Debug\Arithmetic_Four_Operations.exe
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\bin\Debug\Arithmetic_Four_Operations.pdb
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\obj\Debug\Arithmetic_Four_Operations.Form1.resources
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\obj\Debug\Arithmetic_Four_Operations.Properties.Resources.resources
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\obj\Debug\Arithmetic_Four_Operations.csproj.GenerateResource.Cache
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\obj\Debug\Arithmetic_Four_Operations.exe
+D:\C#_Projects\Arithmetic_Four_Operations\Arithmetic_Four_Operations\obj\Debug\Arithmetic_Four_Operations.pdb
