@@ -1,0 +1,9 @@
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\bin\Debug\Knowledge_Competition.exe.config
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\bin\Debug\Knowledge_Competition.exe
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\bin\Debug\Knowledge_Competition.pdb
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.Form1.resources
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.Properties.Resources.resources
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.csproj.GenerateResource.Cache
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.exe
+D:\C#_Projects\Knowledge_Competition\Knowledge_Competition\obj\Debug\Knowledge_Competition.pdb

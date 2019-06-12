@@ -1,9 +1,0 @@
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe.config
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.pdb
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csprojResolveAssemblyReference.cache
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form1.resources
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Properties.Resources.resources
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.GenerateResource.Cache
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.exe
-D:\C#_Projects\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.pdb

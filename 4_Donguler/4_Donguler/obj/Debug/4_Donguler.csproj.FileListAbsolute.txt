@@ -1,0 +1,9 @@
+D:\C#_Projects\4_Donguler\4_Donguler\bin\Debug\4_Donguler.exe.config
+D:\C#_Projects\4_Donguler\4_Donguler\bin\Debug\4_Donguler.exe
+D:\C#_Projects\4_Donguler\4_Donguler\bin\Debug\4_Donguler.pdb
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\_4_Donguler.Form1.resources
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\_4_Donguler.Properties.Resources.resources
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\4_Donguler.csproj.GenerateResource.Cache
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\4_Donguler.exe
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\4_Donguler.pdb
+D:\C#_Projects\4_Donguler\4_Donguler\obj\Debug\4_Donguler.csprojResolveAssemblyReference.cache

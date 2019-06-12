@@ -1,0 +1,9 @@
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\bin\Debug\3_Kara_Yapilari.exe.config
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\bin\Debug\3_Kara_Yapilari.exe
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\bin\Debug\3_Kara_Yapilari.pdb
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\3_Kara_Yapilari.csprojResolveAssemblyReference.cache
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\_3_Kara_Yapilari.Form1.resources
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\_3_Kara_Yapilari.Properties.Resources.resources
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\3_Kara_Yapilari.csproj.GenerateResource.Cache
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\3_Kara_Yapilari.exe
+D:\C#_Projects\3_Kara_Yapilari\3_Kara_Yapilari\obj\Debug\3_Kara_Yapilari.pdb
