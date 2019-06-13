@@ -1,0 +1,9 @@
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\bin\Debug\8_Ekstra_Araclar.exe.config
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\bin\Debug\8_Ekstra_Araclar.exe
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\bin\Debug\8_Ekstra_Araclar.pdb
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\8_Ekstra_Araclar.csprojResolveAssemblyReference.cache
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\_8_Ekstra_Araclar.Form1.resources
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\_8_Ekstra_Araclar.Properties.Resources.resources
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\8_Ekstra_Araclar.csproj.GenerateResource.Cache
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\8_Ekstra_Araclar.exe
+D:\C#_Projects\8_Ekstra_Araclar\8_Ekstra_Araclar\obj\Debug\8_Ekstra_Araclar.pdb

@@ -1,0 +1,8 @@
+D:\C#_Projects\6_Metotlar\6_Metotlar\bin\Debug\6_Metotlar.exe.config
+D:\C#_Projects\6_Metotlar\6_Metotlar\bin\Debug\6_Metotlar.exe
+D:\C#_Projects\6_Metotlar\6_Metotlar\bin\Debug\6_Metotlar.pdb
+D:\C#_Projects\6_Metotlar\6_Metotlar\obj\Debug\_6_Metotlar.Form1.resources
+D:\C#_Projects\6_Metotlar\6_Metotlar\obj\Debug\_6_Metotlar.Properties.Resources.resources
+D:\C#_Projects\6_Metotlar\6_Metotlar\obj\Debug\6_Metotlar.csproj.GenerateResource.Cache
+D:\C#_Projects\6_Metotlar\6_Metotlar\obj\Debug\6_Metotlar.exe
+D:\C#_Projects\6_Metotlar\6_Metotlar\obj\Debug\6_Metotlar.pdb

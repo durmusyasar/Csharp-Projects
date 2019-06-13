@@ -1,0 +1,5 @@
+D:\C#_Projects\7_Sınıflar\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\C#_Projects\7_Sınıflar\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\C#_Projects\7_Sınıflar\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\C#_Projects\7_Sınıflar\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\C#_Projects\7_Sınıflar\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

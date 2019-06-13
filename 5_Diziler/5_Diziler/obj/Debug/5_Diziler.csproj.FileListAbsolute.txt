@@ -1,0 +1,9 @@
+D:\C#_Projects\5_Diziler\5_Diziler\bin\Debug\5_Diziler.exe.config
+D:\C#_Projects\5_Diziler\5_Diziler\bin\Debug\5_Diziler.exe
+D:\C#_Projects\5_Diziler\5_Diziler\bin\Debug\5_Diziler.pdb
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\5_Diziler.csprojResolveAssemblyReference.cache
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\_5_Diziler.Form1.resources
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\_5_Diziler.Properties.Resources.resources
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\5_Diziler.csproj.GenerateResource.Cache
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\5_Diziler.exe
+D:\C#_Projects\5_Diziler\5_Diziler\obj\Debug\5_Diziler.pdb

@@ -1,0 +1,10 @@
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\bin\Debug\7_Sınıflar.exe.config
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\bin\Debug\7_Sınıflar.exe
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\bin\Debug\7_Sınıflar.pdb
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\7_Sınıflar.csprojResolveAssemblyReference.cache
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\_7_Sınıflar.Form1.resources
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\_7_Sınıflar.Form2.resources
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\_7_Sınıflar.Properties.Resources.resources
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\7_Sınıflar.csproj.GenerateResource.Cache
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\7_Sınıflar.exe
+D:\C#_Projects\7_Sınıflar\7_Sınıflar\obj\Debug\7_Sınıflar.pdb
