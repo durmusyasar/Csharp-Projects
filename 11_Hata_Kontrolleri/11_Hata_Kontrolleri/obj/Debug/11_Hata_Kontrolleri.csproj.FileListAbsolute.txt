@@ -1,0 +1,8 @@
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\bin\Debug\11_Hata_Kontrolleri.exe.config
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\bin\Debug\11_Hata_Kontrolleri.exe
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\bin\Debug\11_Hata_Kontrolleri.pdb
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\obj\Debug\_11_Hata_Kontrolleri.Form1.resources
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\obj\Debug\_11_Hata_Kontrolleri.Properties.Resources.resources
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\obj\Debug\11_Hata_Kontrolleri.csproj.GenerateResource.Cache
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\obj\Debug\11_Hata_Kontrolleri.exe
+D:\C#_Projects\11_Hata_Kontrolleri\11_Hata_Kontrolleri\obj\Debug\11_Hata_Kontrolleri.pdb

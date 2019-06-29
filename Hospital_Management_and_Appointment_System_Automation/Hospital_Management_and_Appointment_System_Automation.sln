@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_Management_and_Appointment_System_Automation", "Hospital_Management_and_Appointment_System_Automation\Hospital_Management_and_Appointment_System_Automation.csproj", "{E3D5B78E-0E35-4B19-9908-EA98BB7014FB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HMandASA", "HMandASA\HMandASA.vdproj", "{22103C92-E97F-4B08-85F5-BD0EF9B47D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D5B78E-0E35-4B19-9908-EA98BB7014FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D5B78E-0E35-4B19-9908-EA98BB7014FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D5B78E-0E35-4B19-9908-EA98BB7014FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D5B78E-0E35-4B19-9908-EA98BB7014FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22103C92-E97F-4B08-85F5-BD0EF9B47D3C}.Debug|Any CPU.ActiveCfg = Debug
+		{22103C92-E97F-4B08-85F5-BD0EF9B47D3C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

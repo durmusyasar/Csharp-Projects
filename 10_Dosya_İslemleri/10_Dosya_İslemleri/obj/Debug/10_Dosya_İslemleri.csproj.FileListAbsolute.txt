@@ -1,0 +1,14 @@
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\bin\Debug\10_Dosya_İslemleri.exe.config
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\bin\Debug\10_Dosya_İslemleri.exe
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\bin\Debug\10_Dosya_İslemleri.pdb
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\10_Dosya_İslemleri.csprojResolveAssemblyReference.cache
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\_10_Dosya_İslemleri.Form1.resources
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\_10_Dosya_İslemleri.Properties.Resources.resources
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\10_Dosya_İslemleri.csproj.GenerateResource.Cache
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\10_Dosya_İslemleri.exe
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\10_Dosya_İslemleri.pdb
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\bin\Debug\Interop.AcroPDFLib.dll
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\Interop.AcroPDFLib.dll
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\C#_Projects\10_Dosya_İslemleri\10_Dosya_İslemleri\obj\Debug\10_Dosya_İslemleri.csproj.ResolveComReference.cache

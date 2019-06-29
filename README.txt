@@ -37,5 +37,25 @@
 	label'ýn arka plan rengini karar ifadeleriyle deðiþtirildi.
 	progressBar kullanarak timer adýmlarýný görsel olarak görüntülendi.
 
+- PersonRegisterProject : GroupBoc, Label, TextBox, PictureBox, Checkbox, RadioButtom, DataGridView kullanýldý.
+	sql server 2012 ile oluþturuluan veri tabaný ile DataGridView arasýnda baðlantý kurularak önceden giriler veriler listeleniyor.
+	buuttonlara sql ifadeler yazýlarak çýktýlar elde edildi.
+	datagrid'in CellDoubleClick özelliði ile veriye çift týkladýðýmýzda verinin alanlara gelmesi saðlandý.
+	Listele,ekle,sil,güncelle,kaydet,temizle,istetistikler,grafikler, raporlama ve login paneli yapýldý ve formlar arasý baðlantý gerçekleþtirildi.
 
+- Hospital_Management_and_Appointment_System _Automation :Buton, Label, masketTextBox, linkLabel, textbox, ...
+	Hasta sisteme giriþ yapabilecek,kendisini sisteme kayýt edebilecek, randevu alabilecek, geçmiþ randevularýný görüntüleyebilecek,bilgilerini düzenleyebilecek
+	Asistan giriþ yapýcak, hasta kayýt edecek, doktor kaydedicek, randevu oluþturacak, randevularý görüntüleyecek, randevularý düzenleyecek, 
+	branþ atamasý ve doktor atamasý yapýcak.
+	Doktor sisteme giriþ yapýcak, kendissine ait olan hastalarýn randevularýný görüntüleyecek.
+	Buttona arka plan rengi resim olarak ayarlandý.LinkLabel ile hasta kayýtlý deðilse kayýt olsun diye link alaný.
+	Logins panelin'de tam ekran yapma ve pencere büyütme engellendi(MaximizeBox, AutoSizeMode). Bütün formalara icon tanýmlandý.
+	AcceptButton özelliði ile Enter tuþuna basýlýnca buton iþlevini yapar.
+	Logolar 'da cursor Hand(el) olarak ayarlandý. Form'un Start Position ve FormBorderStyle ayarlandý.
+	....
+
+- Library_Project :
+	Acess veri tabaný kullanýldý.
+	Diðer Projeler'in haricinde search(ara ) ve find(bul) alaný eklendi.
 	
+

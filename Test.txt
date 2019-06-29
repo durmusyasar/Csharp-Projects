@@ -1,0 +1,1 @@
+Data Source=FUJITSU\\SQLEXPRESS;Initial Catalog=HastaneProje;Integrated Security=True

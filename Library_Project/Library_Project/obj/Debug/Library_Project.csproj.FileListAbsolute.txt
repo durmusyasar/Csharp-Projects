@@ -1,0 +1,9 @@
+D:\C#_Projects\Library_Project\Library_Project\bin\Debug\Library_Project.exe.config
+D:\C#_Projects\Library_Project\Library_Project\bin\Debug\Library_Project.exe
+D:\C#_Projects\Library_Project\Library_Project\bin\Debug\Library_Project.pdb
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.Form1.resources
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.Properties.Resources.resources
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.GenerateResource.Cache
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.exe
+D:\C#_Projects\Library_Project\Library_Project\obj\Debug\Library_Project.pdb

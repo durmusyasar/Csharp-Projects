@@ -1,0 +1,15 @@
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\bin\Debug\PersonRegisterProject.exe.config
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\bin\Debug\PersonRegisterProject.exe
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\bin\Debug\PersonRegisterProject.pdb
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.csprojResolveAssemblyReference.cache
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.Properties.Resources.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.csproj.GenerateResource.Cache
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.exe
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.pdb
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.FrmStatistic.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.FrmGraphic.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.FrmMainForm.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.FrmLogin.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\PersonRegisterProject.FrmReport.resources
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\RdlCompile.cache
+D:\C#_Projects\PersonRegisterProject\PersonRegisterProject\obj\Debug\RdlCompile.compiled

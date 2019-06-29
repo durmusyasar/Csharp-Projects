@@ -1,0 +1,4 @@
+Setup kurmadan önce yapýlacaklar 
+C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS\MSSQL\DATA adresine veri tabanlarýný yapýþtýrýn
+Sql Server'a girerek database alanýna sað týlayarak attach diyerek Add diyerek ilgili veri tabanlarýný seçerek Ok (2 kere ) diyilecek
+C sürücüsüne Test.txt dosyasý atýlarak Kurulum yapýlan Bilgisayarýn sunucu adresi yazýlacak

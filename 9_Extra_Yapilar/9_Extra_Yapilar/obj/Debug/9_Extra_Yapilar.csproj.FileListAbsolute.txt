@@ -1,0 +1,10 @@
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\bin\Debug\9_Extra_Yapilar.exe.config
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\bin\Debug\9_Extra_Yapilar.exe
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\bin\Debug\9_Extra_Yapilar.pdb
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\9_Extra_Yapilar.csprojResolveAssemblyReference.cache
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\_9_Extra_Yapilar.Form1.resources
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\_9_Extra_Yapilar.Properties.Resources.resources
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\9_Extra_Yapilar.csproj.GenerateResource.Cache
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\9_Extra_Yapilar.exe
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\9_Extra_Yapilar.pdb
+D:\C#_Projects\9_Extra_Yapilar\9_Extra_Yapilar\obj\Debug\_9_Extra_Yapilar.Form2.resources
