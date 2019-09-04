@@ -1,2 +1,2 @@
 # Csharp_projects
-C# öğrenirken yazmış olduğum uygulamalar
+Applications I wrote while learning C #
